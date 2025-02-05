@@ -2,7 +2,7 @@ import { planetData } from "../../data/planetdata";
 import Image from "next/image";
 
 export default function Page({ params }) {
-  const product = planetData.find((item) => item.ref === params.ref);
+  const planet = planetData.find((item) => item.ref === params.ref);
   console.log(planet);
   return (
     <>
