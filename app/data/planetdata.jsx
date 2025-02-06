@@ -8,7 +8,7 @@ export const planetData = [
       "A planet where everyone is permanently ticklish and stand-up comedy is the primary form of government.",
     inhabitants: 5000000,
     moons: 3,
-    image: "/Gemini_Generated_Image_2gzjon2gzjon2gzj.jpg",
+    image: "/giggloria.jpg",
     ref: "giggloria",
   },
   {
@@ -20,7 +20,7 @@ export const planetData = [
       "A planet where tasks are always 'tomorrow's problem' and deadlines are considered mythical creatures.",
     inhabitants: 7500000,
     moons: 2,
-    image: "/Gemini_Generated_Image_7nqzmt7nqzmt7nqz.jpg",
+    image: "/procastinopia.jpg",
     ref: "procrastinopia",
   },
   {
@@ -32,7 +32,7 @@ export const planetData = [
       "Every interaction is a cringe-worthy moment, and personal space is measured in light-years.",
     inhabitants: 3200000,
     moons: 5,
-    image: "/Gemini_Generated_Image_ecmjplecmjplecmj.jpg",
+    image: "/awkwardia.jpg",
     ref: "awkwardia",
   },
   {
@@ -44,7 +44,7 @@ export const planetData = [
       "Where every conversation is a meme, and communication happens exclusively through reaction gifs.",
     inhabitants: 9000000,
     moons: 4,
-    image: "/Gemini_Generated_Image_fsxgufsxgufsxguf.jpg",
+    image: "/memelandia.jpg",
     ref: "memelandia",
   },
   {
@@ -56,7 +56,7 @@ export const planetData = [
       "A planet powered entirely by coffee, where sleep is considered a weakness and productivity is worship.",
     inhabitants: 6500000,
     moons: 1,
-    image: "/Gemini_Generated_Image_uycy63uycy63uycy.jpg",
+    image: "/caffeinara.jpg",
     ref: "caffeinara",
   },
   {
@@ -68,7 +68,7 @@ export const planetData = [
       "Social gatherings are punishable by mandatory solitude, and silence is the highest form of communication.",
     inhabitants: 2800000,
     moons: 6,
-    image: "/Gemini_Generated_Image_zfp0mezfp0mezfp0.jpg",
+    image: "/introvertia.jpg",
     ref: "introvertia",
   },
   {
@@ -80,7 +80,7 @@ export const planetData = [
       "Where every statement is dripping with sarcasm, and sincerity is considered a rare disease.",
     inhabitants: 4500000,
     moons: 3,
-    image: "/planets/sarcastron.jpg",
+    image: "/sarcastron.jpg",
     ref: "sarcastron",
   },
   {
@@ -92,7 +92,7 @@ export const planetData = [
       "Logic is banned, unpredictability is law, and chaos is the only consistent element.",
     inhabitants: 8200000,
     moons: 7,
-    image: "/planets/randomia.jpg",
+    image: "/randomia.jpg",
     ref: "randomia",
   },
   {
@@ -104,7 +104,7 @@ export const planetData = [
       "Eternal twilight where 'I'll do it later' is the planetary motto and motivation is mythical.",
     inhabitants: 5600000,
     moons: 2,
-    image: "/planets/procrastinight.jpg",
+    image: "/procrastinight.jpg",
     ref: "procrastinight",
   },
   {
@@ -116,7 +116,7 @@ export const planetData = [
       "Where every social interaction is a potential disaster and smooth communication is forbidden.",
     inhabitants: 3900000,
     moons: 4,
-    image: "/planets/awkwardopia.jpg",
+    image: "/awkwardopia.jpg",
     ref: "awkwardopia",
   },
   {
@@ -128,7 +128,7 @@ export const planetData = [
       "Communication happens exclusively through increasingly obscure internet references.",
     inhabitants: 7200000,
     moons: 5,
-    image: "/planets/memeoria.jpg",
+    image: "/memeoria.jpg",
     ref: "memeoria",
   },
   {
@@ -140,7 +140,7 @@ export const planetData = [
       "Where sleeping is an Olympic sport and being awake is considered a radical act.",
     inhabitants: 4100000,
     moons: 3,
-    image: "/planets/snoozelandia.jpg",
+    image: "/snoozelandia.jpg",
     ref: "snoozelandia",
   },
   {
@@ -152,7 +152,7 @@ export const planetData = [
       "Normality is punishable by mandatory interpretive dance and mandatory weird hat wearing.",
     inhabitants: 6800000,
     moons: 6,
-    image: "/planets/quirkonia.jpg",
+    image: "/quirkonia.jpg",
     ref: "quirkonia",
   },
   {
@@ -164,7 +164,7 @@ export const planetData = [
       "Where every conversation is a potential dad joke and linguistic creativity is the highest law.",
     inhabitants: 5300000,
     moons: 2,
-    image: "/planets/punnaria.jpg",
+    image: "/punnaria.jpg",
     ref: "punnaria",
   },
   {
@@ -176,7 +176,7 @@ export const planetData = [
       "Sincerity is illegal, and the national sport is competitive eye-rolling.",
     inhabitants: 4700000,
     moons: 4,
-    image: "/planets/ironicia.jpg",
+    image: "/ironicia.jpg",
     ref: "ironicia",
   },
   {
@@ -188,7 +188,7 @@ export const planetData = [
       "Logic is optional, imagination is currency, and absurdity is the primary form of government.",
     inhabitants: 6100000,
     moons: 5,
-    image: "/planets/whimsica.jpg",
+    image: "/whimsica.jpg",
     ref: "whimsica",
   },
   {
@@ -200,7 +200,7 @@ export const planetData = [
       "Where mistakes are celebrated, and perfection is considered suspicious.",
     inhabitants: 5900000,
     moons: 3,
-    image: "/planets/derptopia.jpg",
+    image: "/derptopia.jpg",
     ref: "derptopia",
   },
   {
@@ -212,7 +212,7 @@ export const planetData = [
       "Predictability is punishable by mandatory spontaneous dance breaks.",
     inhabitants: 7800000,
     moons: 7,
-    image: "/planets/chaotica.jpg",
+    image: "/chaotica.jpg",
     ref: "chaotica",
   },
   {
@@ -224,7 +224,7 @@ export const planetData = [
       "Where optimism is considered a communicable disease and pessimism is a virtue.",
     inhabitants: 4300000,
     moons: 2,
-    image: "/planets/snarkurn.jpg",
+    image: "/snarkurn.jpg",
     ref: "snarkurn",
   },
   {
@@ -236,7 +236,7 @@ export const planetData = [
       "Where logic is banned, randomness is law, and making sense is considered a serious crime.",
     inhabitants: 8500000,
     moons: 6,
-    image: "/planets/absurdia.jpg",
+    image: "/absurdia.jpg",
     ref: "absurdia",
   },
 ];

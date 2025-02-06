@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Page({ params }) {
   const planet = planetData.find((item) => item.ref === params.ref);
-  console.log(planet);
+
   return (
     <>
       <main className="flex flex-col items-center justify-between min-h-screen p-24">
